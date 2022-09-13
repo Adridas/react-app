@@ -1,4 +1,37 @@
-.App {
+.img-logo {
+  width: 60px;
+  margin-top: 20px;
+}
+.list {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.header {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 3em;
+ 
+}
+.app {
+  width: 800px;
+  margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +68,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
